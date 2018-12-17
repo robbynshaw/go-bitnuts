@@ -1,5 +1,9 @@
 # go-bitnuts
 
+[![GoDoc](https://godoc.org/github.com/robbynshaw/go-bitnuts?status.svg)](https://godoc.org/github.com/robbynshaw/go-bitnuts)
+[![Coverage Status](https://coveralls.io/repos/github/robbynshaw/go-bitnuts/badge.svg?branch=master)](https://coveralls.io/github/robbynshaw/go-bitnuts?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/robbynshaw/go-bitnuts)](https://goreportcard.com/report/github.com/robbynshaw/go-bitnuts)
+
 > Bit twiddling, swapping, and maneuvering for go
 
 Includes many functions useful if one is operating on a bit matrix.
